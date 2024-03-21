@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "product name 1",
+        "price": 50,
+        "image": "img/pizza.png"
+    },
+    {
+        "id": 2,
+        "name": "product name 2",
+        "price": 100,
+        "image": "img/pizza - Copy.png"
+    },
+    {
+        "id": 3,
+        "name": "product name 3",
+        "price": 150,
+        "image": "img/pizza - Copy (2).png"
+    },
+    {
+        "id": 4,
+        "name": "product name 4",
+        "price": 200,
+        "image": "img/pizza - Copy (3).png"
+    },
+    {
+        "id": 5,
+        "name": "product name 5",
+        "price": 250,
+        "image": "img/pizza - Copy (4).png"
+    },
+    {
+        "id": 6,
+        "name": "product name 6",
+        "price": 300,
+        "image": "img/pizza - Copy (5).png"
+    }
+]
