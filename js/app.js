@@ -142,7 +142,7 @@ function changeQuantity($idProduct, $type) {
       break;  
   }
   //save new data in cookie
-  let timeSave = "expires=Thu, 18 Dec 2023 12:00:00 UTC";
+  let timeSave = "expires=Thu, 18 Dec 2024 12:00:00 UTC";
   document.cookie =
     "listCart=" + JSON.stringify(listCart) + ";" + timeSave + "; path=/;";
 
